@@ -12,7 +12,7 @@ namespace QuanLyBanVeXe.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "15.7.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "14.0.0.0")]
     internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
         
         private static Settings defaultInstance = ((Settings)(global::System.Configuration.ApplicationSettingsBase.Synchronized(new Settings())));
@@ -25,9 +25,7 @@ namespace QuanLyBanVeXe.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=QLBanVeXe;Integrated Security=" +
-            "True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIn" +
-            "tent=ReadWrite;MultiSubnetFailover=False")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-VA87I8D;Initial Catalog=QLBanVeXe;Integrated Security=True")]
         public string Str {
             get {
                 return ((string)(this["Str"]));
@@ -40,9 +38,7 @@ namespace QuanLyBanVeXe.Properties {
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
-        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=QLBanVeXe;Integrated Security=" +
-            "True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIn" +
-            "tent=ReadWrite;MultiSubnetFailover=False")]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=DESKTOP-VA87I8D;Initial Catalog=QLBanVeXe;Integrated Security=True")]
         public string QLBanVeXeConnectionString {
             get {
                 return ((string)(this["QLBanVeXeConnectionString"]));

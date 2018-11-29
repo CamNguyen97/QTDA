@@ -168,5 +168,11 @@ namespace QuanLyBanVeXe
             us_NhanVien.Visible = true;
         }
 
-    }
+		private void btnLogout_Click(object sender, EventArgs e)
+		{
+			Form1 frm = new Form1();
+			this.Visible = false;
+			frm.ShowDialog();
+		}
+	}
 }
