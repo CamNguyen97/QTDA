@@ -1,0 +1,83 @@
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe.config
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.pdb
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Form1.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormMain.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormNhanVien.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Properties.Resources.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.TaiKhoan.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.us_LichTrinh.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.VeBan.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Xe.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.GenerateResource.Cache
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemTaiKhoan.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemXe.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaTaiKhoan.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemLichTrinh.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.KhachHang.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.TaiXe.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemKhachHang.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaKhachHang.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemTaiXe.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemVeBan.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormXe16.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormXe29.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormXe34.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemDiaDiem.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemDiaDiemKT.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaLichTrinh.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemVe.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaVe.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ThongKe.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\RdlCompile.cache
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\RdlCompile.compiled
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaVeBan.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.NhanVien.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemNhanVien.resources
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csprojResolveAssemblyReference.cache
+E:\Project C#\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Form1.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormMain.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormNhanVien.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaKhachHang.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaLichTrinh.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaTaiKhoan.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaVe.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormSuaVeBan.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemDiaDiem.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemDiaDiemKT.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemKhachHang.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemLichTrinh.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemNhanVien.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemTaiKhoan.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemTaiXe.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemVe.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemVeBan.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormThemXe.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormXe16.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormXe29.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.FormXe34.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.KhachHang.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.NhanVien.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Properties.Resources.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.TaiKhoan.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.us_LichTrinh.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.TaiXe.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.ThongKe.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.VeBan.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.Xe.resources
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csproj.GenerateResource.cache
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.exe
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.pdb
+E:\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe.config
+E:\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.exe
+E:\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\QuanLyBanVeXe.pdb
+E:\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\QuanLyBanVeXe\QuanLyBanVeXe\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\QuanLyBanVeXe.csprojResolveAssemblyReference.cache
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\RdlCompile.cache
+E:\QuanLyBanVeXe\QuanLyBanVeXe\obj\Debug\RdlCompile.compiled
